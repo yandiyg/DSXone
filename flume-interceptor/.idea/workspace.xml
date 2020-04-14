@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47697718-1efe-4c4b-81ad-ed49267ed62d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Student\idea\repository" />
+        <option name="mavenHome" value="E:/Student/idea/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Student\idea\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZcESb9B9CbbpTMnN9FeEiXgWWJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.foo.flume.interceptor" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47697718-1efe-4c4b-81ad-ed49267ed62d" name="Default Changelist" comment="" />
+      <created>1585129982596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585129982596</updated>
+      <workItem from="1585129985140" duration="9596000" />
+      <workItem from="1585182971540" duration="3407000" />
+      <workItem from="1585211015078" duration="116000" />
+      <workItem from="1585211165752" duration="5000" />
+      <workItem from="1585214703380" duration="22000" />
+      <workItem from="1585218330153" duration="162000" />
+      <workItem from="1585221381356" duration="7000" />
+      <workItem from="1585788460213" duration="695000" />
+      <workItem from="1586592621365" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1363" y="447" key="#com.intellij.ide.util.MemberChooser" timestamp="1585138173742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1363" y="447" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585138173742" />
+    <state x="795" y="336" key="FileChooserDialogImpl" timestamp="1585130180183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="336" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585130180183" />
+    <state width="1644" height="220" key="GridCell.Tab.0.bottom" timestamp="1585218493253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1644" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585218493253" />
+    <state width="1644" height="220" key="GridCell.Tab.0.center" timestamp="1585218493253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1644" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585218493253" />
+    <state width="1644" height="220" key="GridCell.Tab.0.left" timestamp="1585218493253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1644" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585218493253" />
+    <state width="1644" height="220" key="GridCell.Tab.0.right" timestamp="1585218493253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1644" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585218493253" />
+    <state x="980" y="197" key="Maven.ArtifactSearchDialog" timestamp="1585136475002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="980" y="197" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585136475002" />
+    <state x="758" y="221" key="SettingsEditor" timestamp="1586593565497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="221" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586593565497" />
+  </component>
+</project>
